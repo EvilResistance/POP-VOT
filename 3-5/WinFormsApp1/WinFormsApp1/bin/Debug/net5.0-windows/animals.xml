@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfAnimal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Animal xsi:type="WarmC">
+    <Weight>4</Weight>
+    <Name>Белка</Name>
+    <Age>
+      <CurrentAge>3</CurrentAge>
+    </Age>
+    <TypeW>Mamml</TypeW>
+  </Animal>
+  <Animal xsi:type="WarmC">
+    <Weight>6</Weight>
+    <Name>Окунь</Name>
+    <Age>
+      <CurrentAge>1</CurrentAge>
+    </Age>
+    <TypeW>Fish</TypeW>
+  </Animal>
+  <Animal xsi:type="ColdC">
+    <Weight>1</Weight>
+    <Name>Гадюка</Name>
+    <Age>
+      <CurrentAge>4</CurrentAge>
+    </Age>
+    <TypeC>Reptile</TypeC>
+  </Animal>
+</ArrayOfAnimal>

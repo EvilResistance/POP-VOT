@@ -1,0 +1,29 @@
+[
+  {
+    "$type": "WinFormsApp1.Animals.WarmC, WinFormsApp1",
+    "TypeW": "Mamml",
+    "Weight": 4,
+    "Name": "Белка",
+    "Age": {
+      "CurrentAge": 3
+    }
+  },
+  {
+    "$type": "WinFormsApp1.Animals.WarmC, WinFormsApp1",
+    "TypeW": "Fish",
+    "Weight": 6,
+    "Name": "Окунь",
+    "Age": {
+      "CurrentAge": 1
+    }
+  },
+  {
+    "$type": "WinFormsApp1.Animals.ColdC, WinFormsApp1",
+    "TypeC": "Reptile",
+    "Weight": 1,
+    "Name": "Гадюка",
+    "Age": {
+      "CurrentAge": 4
+    }
+  }
+]
