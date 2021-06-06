@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfGalaxy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Galaxy xsi:type="LensClass">
+    <Name>gaehht</Name>
+    <Count>12561</Count>
+    <LensType>S0</LensType>
+  </Galaxy>
+  <Galaxy xsi:type="UncorrectClass">
+    <Name>jyrsjsu</Name>
+    <Count>171467</Count>
+    <UncorrectType>SBb</UncorrectType>
+  </Galaxy>
+</ArrayOfGalaxy>
